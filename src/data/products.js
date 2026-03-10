@@ -154,19 +154,19 @@ const basePriceByBrand = {
 
 const imageBaseByBrand = {
   Nike:
-    'https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80',
-  Adidas:
     'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80',
+  Adidas:
+    'https://images.unsplash.com/photo-1485736231968-0c8ad5c9e174?q=80&w=1080&auto=format&fit=crop',
   Puma:
-    'https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80',
-  'New Balance':
-    'https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?auto=format&fit=crop&w=1200&q=80',
-  Reebok:
     'https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=1200&q=80',
+  'New Balance':
+    'https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=1080&auto=format&fit=crop',
+  Reebok:
+  'https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=1080&auto=format&fit=crop',
   Asics:
-    'https://images.unsplash.com/photo-1528701800489-20be3c30c1d5?auto=format&fit=crop&w=1200&q=80',
+    'https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=1080&auto=format&fit=crop',
   Converse:
-    'https://images.unsplash.com/photo-1463107971875-48f1e0b39eef?auto=format&fit=crop&w=1200&q=80',
+    'https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=1080&auto=format&fit=crop',
   Vans:
     'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80'
 };
